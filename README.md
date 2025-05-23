@@ -23,7 +23,7 @@ The course progresses from foundational material to advanced machine learning me
 
 ## Repository Contents
 
-- `lectures/`: Lecture slides and notes (PDFs)
+- `lectures/`: Lecture notes (PDFs)
 - `notebooks/`: Jupyter notebooks demonstrating key concepts and methods
 - `datasets/`: Sample datasets used in examples and exercises
 
