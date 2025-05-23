@@ -35,3 +35,9 @@ To run the notebooks:
 2. Download the jupyer notebooks
 2. Launch JupyterLab or Jupyter Notebook and run the cells in the notebooks
 
+
+```bash
+git clone https://github.com/saratmoka/MATH5836.git
+cd MATH5836
+jupyter-notebook &
+
