@@ -10,8 +10,8 @@ The course progresses from foundational material to advanced machine learning me
 ## Weekly Topics
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Python
-- **Week 1**: Data Processing and Linear Regression
-- **Week 2**: Logistic Regression and Evaluation Metrics
+- **Week 1**: Data and Linear Regression
+- **Week 2**: Logistic and Softmax Regression
 - **Week 3**: Introduction to Neural Networks
 - **Week 4**: Advanced Techniques for Neural Networks
 - **Week 5**: Bayesian Neural Networks
