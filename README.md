@@ -26,6 +26,7 @@ The course progresses from foundational material to advanced machine learning me
 - `lectures/`: Lecture notes (PDFs)
 - `notebooks/`: Jupyter notebooks demonstrating key concepts and methods
 - `datasets/`: Sample datasets used in examples and exercises
+- `tutorial/`: Weekly tutorial/lab tasks
 
 ## Getting Started
 
