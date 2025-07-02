@@ -10,7 +10,7 @@ The course progresses from foundational material to advanced machine learning me
 ## Weekly Topics  
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Python  
-  - 📝 [Calculus](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Calculus.pdf) | 📝 [Linear Algebra](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_LinearAlgebra.pdf) | 📝 [Probability](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Probability.pdf) | 📖 [Python Baiscs](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week00)  
+  - 📝 [Calculus](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Calculus.pdf) | 📝 [Linear Algebra](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_LinearAlgebra.pdf) | 📝 [Probability](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Probability.pdf) | 📖 [Python Basics](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week00)  
 
 - **Week 1**: Data and Linear Regression  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_1_Data_and_Linear_Regression.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week01) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week01)  
@@ -29,24 +29,25 @@ The course progresses from foundational material to advanced machine learning me
 
 - **Week 6**: Break (no lectures)  
 
-- **Week 7**: Decision Trees and Random Forests  (not available yet)
-  - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
+- **Week 7**: Decision Trees and Random Forests 
+  - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*    
 
-- **Week 8**: Ensemble Learning  (not available yet)
-  - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
+- **Week 8**: Ensemble Learning  
+  - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*    
 
-- **Week 9**: Unsupervised Learning  (not available yet)
-  - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
+- **Week 9**: Unsupervised Learning  
+  - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*   
 
-- **Week 10**: Emerging Topics in Machine Learning  (not available yet)
-  - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
+- **Week 10**: Emerging Topics in Machine Learning  
+  - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*  
+  <!-- - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  -->
 
 ## Repository Contents
 
 - `lectures/`: Lecture notes (PDFs)
 - `notebooks/`: Jupyter notebook exercises demonstrating key concepts and methods
 - `datasets/`: Sample datasets used in some examples and exercises
-- `tutorial/`: Weekly tutorial/lab tasks
+- `tutorials/`: Weekly tutorial/lab tasks
 
 ## Getting Started
 
