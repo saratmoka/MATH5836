@@ -57,6 +57,7 @@ To run the notebooks:
 2. Download the jupyer notebooks
 2. Launch JupyterLab or Jupyter Notebook and run the cells in the notebooks
 
+Alternatively,
 
 ```bash
 git clone https://github.com/saratmoka/MATH5836.git
@@ -66,3 +67,4 @@ jupyter-notebook &
 ## Feedback
 
 Got feedback? Let me know at [s.moka@unsw.edu.au](mailto:s.moka@unsw.edu.au) – I'd love to hear from you! 
+
