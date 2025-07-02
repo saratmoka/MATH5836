@@ -29,16 +29,16 @@ The course progresses from foundational material to advanced machine learning me
 
 - **Week 6**: Break (no lectures)  
 
-- **Week 7**: Decision Trees and Random Forests  
+- **Week 7**: Decision Trees and Random Forests  (not available yet)
   - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
 
-- **Week 8**: Ensemble Learning  
+- **Week 8**: Ensemble Learning  (not available yet)
   - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
 
-- **Week 9**: Unsupervised Learning  
+- **Week 9**: Unsupervised Learning  (not available yet)
   - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
 
-- **Week 10**: Emerging Topics in Machine Learning  
+- **Week 10**: Emerging Topics in Machine Learning  (not available yet)
   - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  
 
 ## Repository Contents
