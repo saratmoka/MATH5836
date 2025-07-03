@@ -11,19 +11,14 @@ The course progresses from foundational material to advanced machine learning me
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Python  
   - 📝 [Calculus](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Calculus.pdf) | 📝 [Linear Algebra](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_LinearAlgebra.pdf) | 📝 [Probability](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_0_Probability.pdf) | 📖 [Python Basics](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week00)  
-
 - **Week 1**: Data and Linear Regression  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_1_Data_and_Linear_Regression.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week01) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week01)  
-
 - **Week 2**: Classification and Regularisation  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_2_Classification_and_Regularization.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week02) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week02)  
-
 - **Week 3**: Introduction to Neural Networks  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_3_Introduction_to_Neural_Networks.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week03) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week03)  
-
 - **Week 4**: Advanced Techniques for Neural Networks  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_4_Advanced_Techniques_for_Neural_Networks.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week04) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week04)  
-
 - **Week 5**: Bayesian Neural Networks  
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_5_Bayesian_Neural_Networks.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week05) | 🎓 [Tutorial](https://github.com/saratmoka/MATH5836/tree/main/tutorials/week05)  
 
@@ -31,13 +26,10 @@ The course progresses from foundational material to advanced machine learning me
 
 - **Week 7**: Decision Trees and Random Forests 
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*    
-
 - **Week 8**: Ensemble Learning  
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*    
-
 - **Week 9**: Unsupervised Learning  
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*   
-
 - **Week 10**: Emerging Topics in Machine Learning  
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*  
   <!-- - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  -->
