@@ -27,7 +27,7 @@ The course progresses from foundational material to advanced machine learning me
 - **Week 7**: Decision Trees and Random Forests 
   - 📝 [Lecture Notes](https://github.com/saratmoka/MATH5836/blob/main/lectures/MATH5836_Lec_7_Decision_Trees_Random_Forest.pdf) | 📖 [Exercises](https://github.com/saratmoka/MATH5836/tree/main/notebooks/week07) | 🎓 [Tutorial](./tutorials/week07)      
 - **Week 8**: Ensemble Learning  
-  - 📝 [Lecture Notes](./lectures/MATH5836_Lec_8_Ensemble_Learning.pdf) | 📖 *Coming Soon* | 🎓 *Coming Soon*    
+  - 📝 [Lecture Notes](./lectures/MATH5836_Lec_8_Ensemble_Learning.pdf) | 📖 [Exercises](./notebooks/week08/) | 🎓 *Coming Soon*    
 - **Week 9**: Unsupervised Learning  
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*   
 - **Week 10**: Emerging Topics in Machine Learning  
