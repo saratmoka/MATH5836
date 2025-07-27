@@ -29,7 +29,7 @@ The course progresses from foundational material to advanced machine learning me
 - **Week 8**: Ensemble Learning  
   - 📝 [Lecture Notes](./lectures/MATH5836_Lec_8_Ensemble_Learning.pdf) | 📖 [Exercises](./notebooks/week08/) | 🎓 [Tutorial](./tutorials/week08)      
 - **Week 9**: Unsupervised Learning  
-  - 📝 [Lecture Notes](./lectures/MATH5836_Lec_9_Unsupervised_Learning.pdf) | 📖 [Exercises](./notebooks/week09/) | 🎓 *Coming Soon*   
+  - 📝 [Lecture Notes](./lectures/MATH5836_Lec_9_Unsupervised_Learning.pdf) | 📖 [Exercises](./notebooks/week09/) | 🎓 [Tutorial](./tutorials/week09)
 - **Week 10**: Emerging Topics in Machine Learning  
   - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*  
   <!-- - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  -->
