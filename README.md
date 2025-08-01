@@ -31,7 +31,7 @@ The course progresses from foundational material to advanced machine learning me
 - **Week 9**: Unsupervised Learning  
   - 📝 [Lecture Notes](./lectures/MATH5836_Lec_9_Unsupervised_Learning.pdf) | 📖 [Exercises](./notebooks/week09/) | 🎓 [Tutorial](./tutorials/week09)
 - **Week 10**: Emerging Topics in Machine Learning  
-  - 📝 *Coming Soon* | 📖 *Coming Soon* | 🎓 *Coming Soon*  
+  - 📝 [Lecture Notes](./lectures/MATH5836_Lec_10_Emerging_Topics_in_Machine_Learning) | 📖 [Exercises](./notebooks/week10/) | 🎓 *Coming Soon*  
   <!-- - 📝 [Lecture Notes](#) | 📖 [Exercises](#) | 🎓 [Tutorial](#)  -->
 
 ## Repository Contents
